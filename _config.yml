@@ -1,0 +1,7 @@
+title: MathSphere | مرجعي في الرياضيات
+description: Mathe-Tutorials auf Arabisch für Universität & Schule
+theme: jekyll-theme-minimal
+url: "https://math-horizon.github.io/mathsphere.github.io"
+plugins:
+  - jekyll-seo-tag
+youtube: "https://youtube.com/@mymathsreference"
