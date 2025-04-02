@@ -1,1 +1,0 @@
-ar/algebra.md
